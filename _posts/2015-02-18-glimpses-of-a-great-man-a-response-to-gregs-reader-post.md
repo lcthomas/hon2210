@@ -1,0 +1,20 @@
+---
+id: 494
+title: 'Glimpses of  a Great Man &#8211; A Response to Greg&#8217;s Reader Post'
+date: 2015-02-18T18:30:55+00:00
+author: jonahmiller
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=494
+permalink: /2015/02/18/glimpses-of-a-great-man-a-response-to-gregs-reader-post/
+categories:
+  - Responders
+---
+In his aptly titled post “Odds Against Tomorrow (Reader)”, Greg discusses Mitchell Zukor’s transition from a troubled math maniac to a “great man”. In general Greg’s post is interesting, especially in that it connects the events that we have read so far (up to Part 2) to the strange introduction that we receive in the first few pages of the novel. However, I would like to add some of my own insight into Zukor’s character.
+
+First off, I disagree which Greg’s portrayal of Mitchell Zukor as evolving in a linear fashion beginning with the addition of Jane to the FutureWorld staff. Instead, Mitchell seems to show spurts of change, before slipping back into his old habits. The first significant “spurt” occurs shortly after Mitchell hears of Elsa Bruner’s hospitalization. On an impulse, he spends a large chunk of money on a strangely painted canoe. Whereas the old Mitchell may have deliberated over such a purchase, considering the numbers and figures first, the Mitchell we see here feels empowered by such a bold action: “It gave Mitchell immense satisfaction. He felt he had proved something,” (100). However, after this brief period of change, he reverts back to his old ways. Once Hurricane Tammy strikes, Mitchell becomes empowered once more, decisively navigating himself and Jane through the flooded streets of Manhattan. In fact, he seems to thrive during catastrophes.
+
+Although the omniscient narrator seems to suggest that Mitchell has been irreversibly changed after his experiences, we cannot tell whether this change will be lasting. The narrator described similar changes after Mitchell learned of Elsa’s fate, but he still eventually reverted to his old self. Since I have not yet read the final section of the novel, I cannot be certain whether or not the narrator’s statements in the final pages of Part 2 hold any real value. Perhaps Mitchell has truly evolved into the “great man” we hear of in the first few pages. Still, based on evidence from the reading thus far, it seems that Mitchell’s “change” occurs only in momentary bursts, and this “great man” is usually just a flawed and fearful nobody.
+
+[<img class="alignnone size-medium wp-image-495" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-300x135.png" alt="OddsAgainstTMRWpic" width="300" height="135" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-300x135.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-100x45.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-150x68.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-200x90.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-450x203.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic-600x271.png 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic.png 641w" sizes="(max-width: 300px) 100vw, 300px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/OddsAgainstTMRWpic.png)
+
+The above picture depicts a shot from the TV show Breaking Bad (which I am re-watching for the second time). Jesse Pinkman decides to re-enter the meth manufacturing business after a brief period of trying to clean himself up. I think in some ways, Jesse&#8217;s character is similar to Mitchell&#8217;s. Like Mitchell, Jesse shows temporary signs of change before slipping into his old habits.

@@ -1,0 +1,20 @@
+---
+id: 409
+title: From Netflix to Spotify
+date: 2015-02-04T21:55:09+00:00
+author: Nikhil Gandhi
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=409
+permalink: /2015/02/04/from-netflix-to-spotify/
+categories:
+  - Responders
+---
+Jonah, in his post &#8220;Using Machines to Explore Humans,&#8221; makes some interesting points. I agree with some of them and disagree with others, and I would also like to elaborate on some of the ideas mentioned.
+
+Jonah writes that only a handful of movies in the &#8220;Top Picks for Jonah&#8221; category actually caught his attention. The way I use Netflix (and the way I&#8217;m sure many others use it), I ignore a title&#8217;s plea for a rating once I finish watching it. Although I know the ratings help the system better decide what to suggest for me, I never took the time to actually rate a TV show or movie that I completed. This is one possible reason that Jonah&#8217;s list seemed somewhat unappealing &#8211; Netflix is working on what you _watched_ rather than what you _liked_. Another possible explanation comes later within the post itself. In the 2nd paragraph, Jonah writes, &#8220;The system&#8230; has to deal with random factors, such as movies that a viewer watches that may not reflect their overall taste in movies and television.&#8221; For example, I may be an avid viewer of romantic comedies on Netflix, but between viewings of _Valentine&#8217;s Day_ and _Silver Linings Playbook_ I unexpectedly watch _Close Encounters of the Third Kind_. Assuming this is the only science fiction movie I would enjoy on Netflix, I now see titles that I find undesirable under my suggestions because the system isn&#8217;t aware of that preference. Looking back at Madrigal&#8217;s article, however, I believe the Netflix system somewhat accounts for this situation &#8211; the intense human tagging method means that the _Close Encounters of the Third Kind_ suggestions would be very similar movies, rather than generic science fiction films. Therefore, whatever aspect of the movie was so appealing could be found in some of the other suggested titles.
+
+Madrigal&#8217;s article and Jonah&#8217;s third paragraph about Pandora reminded me a Spotify feature I recently noticed. Spotify Radio works similarly to Pandora; however, Spotify Radio takes into account what you usually listen to when you choose an artist/song to base a station on. I personally find it very intriguing that algorithms  can use data such as what songs I recently listened to (in conjunction with a predetermined set of similar songs) to pick something I would like to hear.
+
+[<img class="  wp-image-410 aligncenter" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-300x169.jpg" alt="Blost Post 3" width="437" height="246" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-300x169.jpg 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-1024x576.jpg 1024w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-100x56.jpg 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-150x84.jpg 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-200x113.jpg 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-450x253.jpg 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-600x338.jpg 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3-900x506.jpg 900w" sizes="(max-width: 437px) 100vw, 437px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Blost-Post-3.jpg)
+
+In this picture of my Spotify Radio, I selected a ballad from the _Jekyll and Hyde Musical_ as my starting track. In the queue are soft tracks from _Wicked_, _If/Then_, and _The Phantom of the Opera_. Additionally, Spotify Radio offers a thumbs up/down feedback option so it can better decide what tracks you may like.

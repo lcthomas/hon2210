@@ -1,0 +1,18 @@
+---
+id: 924
+title: Gamification’s Dark Side (Response to Gregory’s Post “Gaming the Quantified Self”)
+date: 2015-04-01T21:48:54+00:00
+author: willbecker
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=924
+permalink: /2015/04/01/gamifications-dark-side-response-to-gregorys-post-gaming-the-quantified-self/
+categories:
+  - Responders
+---
+Greg made a great point in his post that I think touches the tip of a much larger iceberg. While remarking on gamification’s ability to motivate people in mundane activities, he observed that “as individuals, it is sometimes difficult to find the motivation within ourselves to make the effort to change. Our innate need for gratification, especially instant gratification, often hinders our efforts”. It is this reluctance to take the plunge in a new endeavor, he argues, that gamification can help us overcome. I completely agree, but advise caution in relying on gamification too heavily.
+
+While tracking and analysis of quantified personal data can help us more easily monitor certain aspects of our lives and help us move toward goals, it can’t truly “quantify” our minds or behavior, and shouldn’t be used as a stand-in for mental discipline and self-control. Whitson remarks in her article that “Games excel at providing precise real-time feedback to help players chart their current progress and determine how to advance”. While definitely useful in pursuing goals like fitness and diet, gamified activities eventually run into a hard reality: life isn’t a game. Not every activity can be successfully transformed into a live-action “game”. Thus, if we become too reliant upon such gamification for our motivation, we will have a very rough time when we encounter the reality that not everything in life is fun, or provides near-instantaneous feedback. As Greg points out, the instant feedback and gratification provided by games and gamified activities triggers the release of dopamine. Gamification, if over-used, has the potential to dull us to the pleasures of completing real-world tasks without flashing lights and gold coins as a reward. I think this effect may be a contributing factor in the sudden proliferation of ADHD diagnoses in today’s kids. Almost constant exposure to the short tasks and flashy reward systems in games could be part of the reason why so many kids today have trouble concentrating on tasks that require patience and diligence.
+
+In short, I believe gamification is a double-edged sword: it can certainly help us to be more diligent in tasks that we might otherwise perceive as drudgery, but at the same time it weakens our mental discipline and our ability to accomplish those very tasks unassisted by gamifying technologies. If used in moderation for a few specific tasks, gamification can be a beneficial tool for increasing our well-being. However, it can easily become a crutch upon which our minds rely for motivation. Just keep calm, and
+
+[<img class=" size-full wp-image-926 aligncenter" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/images.png" alt="images" width="208" height="243" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/images.png 208w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/images-100x117.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/images-150x175.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/images-200x234.png 200w" sizes="(max-width: 208px) 100vw, 208px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/images.png)

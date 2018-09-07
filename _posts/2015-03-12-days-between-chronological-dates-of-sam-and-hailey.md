@@ -1,0 +1,40 @@
+---
+id: 715
+title: Days between Chronological Dates of Sam and Hailey
+date: 2015-03-12T15:54:49+00:00
+author: caitlynlankowski
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=715
+permalink: /2015/03/12/days-between-chronological-dates-of-sam-and-hailey/
+categories:
+  - Machine Reading
+---
+For my Machine Reading of _Only Revolutions_ by Mark Z. Danielewski, I chose to analyze the number of days between each date in the Chronological Sidebar of both Sam and Hailey. During my reading of _Only Revolutions_, I became enthralled with the dates of the sidebar and often questioned whether Danielewski included hidden patterns within this data or if the dataset itself was random.
+
+For my analysis I began by creating a timeline of both Sam and Hailey&#8217;s chronological dates using Timeline.js. Timeline.js was a relatively easy website to use and allows an interactive timeline to be produced. Below I have posted a picture of both zoomed out timelines, as well as a link to the timeline, which allows the reader to further analyze the dataset.
+
+Sam&#8217;s Timeline and Link:
+
+[<img class="alignnone size-large wp-image-719" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-1024x182.png" alt="Screen Shot 2015-03-11 at 9.27.14 PM" width="605" height="108" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-1024x182.png 1024w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-300x53.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-100x18.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-150x27.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-200x36.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-450x80.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-600x107.png 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1-900x160.png 900w" sizes="(max-width: 605px) 100vw, 605px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.27.14-PM1.png)
+
+http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AnLZqm8HUgMndERoODJQamJ5M3BjckN6M2pheWVhTGc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650
+
+Hailey&#8217;s Timeline and Link:
+
+[<img class="alignnone size-large wp-image-720" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-1024x159.png" alt="Screen Shot 2015-03-11 at 9.29.58 PM" width="605" height="94" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-1024x159.png 1024w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-300x46.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-100x15.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-150x23.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-200x31.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-450x70.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-600x93.png 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1-900x139.png 900w" sizes="(max-width: 605px) 100vw, 605px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Screen-Shot-2015-03-11-at-9.29.58-PM1.png)
+
+http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AnLZqm8HUgMndGZfU0FMUXZTNG44c0ZJdDZXaDItYUE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650
+
+After creating both timelines, I discovered the trend that the number of days between each date in the chronological sidebar for both Sam and Hailey are inversely related. The number of days between dates for Sam reduces, causing the dates to be closer, while the number of days between dates for Hailey increases, causing the dates to be more spread out. I questioned the rate at which this occurred and, therefore, decided to use Microsoft Excel to further investigate the timelines. I imported both datasets separately and used a serious of functions to create a simple line graph showing the rate at which the number of days between dates changed for both Sam and Hailey throughout the novel.
+
+[<img class="alignnone  wp-image-722" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR.png" alt="OR" width="616" height="429" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR.png 1013w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-300x209.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-100x70.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-150x105.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-200x139.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-450x314.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-600x418.png 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR-900x627.png 900w" sizes="(max-width: 616px) 100vw, 616px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/OR.png)
+
+&nbsp;
+
+This visualization displayed a new trend that was not apparent throughout the reading of the novel: the changing of days for both Hailey and Sam is inverse with a plateau in the middle. From approximately pages 100 to 260 in the novel, the number of days between each date is around 50 to 60 days for both Sam and Hailey. For large range of number of days between dates, which is 0 to 338, this period of small change is very important and a strong pattern found. The reasoning behind both patterns discovered in the timeline and excel graph can be further explained through in depth reading of _Only Revolutions. _
+
+Throughout my analysis, the decisions made were based upon the dataset I was analyzing and questions I had during reading of _Only Revolutions. _I decided to analyze the dataset as a whole, rather than taking a random sample or stratified sample, in order to determine a complete pattern from the novel. I questioned whether Danielewski thought about the dates he chose or if they were in fact random and the only way to answer this was through analyzing the dataset as a whole. I also chose to use Timline.js cause of its ability to both zoom in and zoom out on the dataset. <span style="line-height: 1.5">The reader can zoom out on each individual timeline to see an overall pattern throughout the novel, while also being able to zoom in and determine exactly what point of the novel corresponds to the dates and further investigate these patterns. By using Timeline.js the timeline I created could be further enhanced and filled in to produce a complete timeline of the novel. I truly believe a complete timeline could be very useful in machine reading of </span><i style="line-height: 1.5">Only Revolutions</i> <span style="line-height: 1.5">and would allow an intersection between machine reading and close reading to further understand the novel. </span>
+
+&nbsp;
+
+&nbsp;

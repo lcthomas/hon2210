@@ -1,0 +1,26 @@
+---
+id: 696
+title: 'Go HOPE forever: Observer'
+date: 2015-03-06T13:13:04+00:00
+author: adamcarroll
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=696
+permalink: /2015/03/06/go-hope-forever-observer/
+categories:
+  - Observers
+---
+All in all, I feel as though the possibilities to observe this book become infinite; that fact may alone be something worth noting in regard to the major themes of the narrative. I believe the fact that this book has so much to observe is one of the biggest points Danielewski is trying to emphasize. Like we talked about in class, we typically like to &#8220;dive into&#8221; a good book. In order to truly dive into Only Revolutions, one must take a few steps back and actually spend more time looking outside the book for answers than in it.
+
+Three textured words I chose to observe were &#8220;go&#8221;, &#8220;HOPE&#8221;, and &#8220;forever&#8221;. For the word go, I am explicitly looking at the chronology bar. It appears here 1,458 times for Hailey and 1,173 times for Sam. The capitalized word HOPE appears a total of 40 times in the narrative. It occurs 20 times with Hailey and 20 times with Sam. Forever appears a total of 34 times.
+
+I did not start out reading or paying attention to the chronology bar, but the one thing that did catch my attention was the word go (and the word revolution..but thats a whole separate subject). As we discussed in class, go is indicating death. I was tempted to count the total number of people who die during Sam and Hailey&#8217;s timeless trip, but realized spending hours counting dead people probably is not the best use of time. Nevertheless, I find it interesting that the word appears in excess of 1,000 times in both chronology bars and then barely over 500 in the whole narrative. Someone dies on every single page. It seems that the major theme of the world outside of Sam and Hailey is centered around death, while they are seemingly eternal beings. This point can be supported by also observing all of the plants and animals that are constantly dying and their boldness of font fading as Sam and Hailey travel on. Reading the chronology bar along with the narrative is then in many ways like viewing two, opposing parallel worlds occurring simultaneously. I wonder what the most deadly historical page in the book is, and if that has anything to relate to what is going on in the narrative at the time.
+
+HOPE was one of the first patterns that I investigated while reading the narrative.It is either described as NEW (8 times), DYING (2 times), SWEET (2 times), DEAD (3 times), or LAST (2 times). It is only capitalized and by itself once in both narratives on page 263 &#8220;my last HOPE&#8221;. It is also almost always portrayed as a living being:&#8221;DYING HOPE recieves me&#8221; (H15),&#8221;SWEET HOPE, allways so sure&#8221; (H98), and &#8220;NEW HOPE. Silliest of the bunch&#8221; (S15). When using the online tools, the being(s) who is/are HOPE change as the narrative goes on. In the beginning HOPE is almost always NEW, unless it throws a tantrum in which DYING shows up. From NEW it becomes SWEET, then CHANGING, LAST, and finally DEAD at the &#8220;end&#8221; of the novel. I think this progressive change mirrors Sam and Hailey. They too start out NEW exclaiming &#8220;I&#8217;ll destroy the world&#8221;(S/H 1) and end up DEAD uttering &#8220;I&#8217;ll destroy no world&#8221;(S/H360).
+
+The last word I investigated was forever. With time being a major theme, I thought it would be worth looking into. The word forever shows up a total of 34 times. 17 in Hailey&#8217;s narrative and 16 in Sam&#8217;s (1 instance occurs in his chronology bar). Forever is sometimes used as a noun and something that Hailey and Sam possess, and other times refers to time itself: &#8220;And take forever with US?&#8221; (S/H177), &#8220;How iz forever?&#8221; (S/H184), &#8220;And we go forever&#8221; (S/H224), and &#8220;Leftwrist Twist of Forever astounds me&#8221;(S/H309).  The instance when forever occurs in Sam&#8217;s chronology bar stood out and was interesting. It appears on page 17 with Sam stating &#8220;I will fight no more forever&#8221;. On the same page in Sam&#8217;s narrative he finds himself in a violent encounter with all kinds of numerous characters and says &#8220;I&#8217;m sick of fighting&#8221;. On Hailey&#8217;s upside down narrative on Sam&#8217;s page there are the words &#8220;rage. rage. rage.&#8221;. This appears again for Hailey&#8217;s narrative on page 17. I think forever is something Sam and Hailey are desperately trying to hold onto. Whether its in life or death, they are committed to holding onto forever and never leaving each other.
+
+&nbsp;
+
+&nbsp;
+
+This is unrelated to my post, but I found it doing some research on the novel. I thought it  was interesting and worth sharing with you guys. It helped me see how Sam and Hailey could maybe be experiencing each other at the same time while still separated by decades. They could very well be experiencing remnant traces of each other just as Wind and Mr. ug did. Just a cool perspective and some interesting food for thought!

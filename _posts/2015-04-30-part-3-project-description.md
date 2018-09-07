@@ -1,0 +1,18 @@
+---
+id: 1108
+title: 'Part 3: Project Description'
+date: 2015-04-30T16:18:59+00:00
+author: jonahmiller
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=1108
+permalink: /2015/04/30/part-3-project-description/
+categories:
+  - Final Project Description
+---
+[<img class="alignnone size-full wp-image-1109" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project.jpg" alt="final project" width="680" height="800" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project.jpg 680w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-255x300.jpg 255w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-100x118.jpg 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-150x176.jpg 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-200x235.jpg 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-300x353.jpg 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-450x529.jpg 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project-600x706.jpg 600w" sizes="(max-width: 680px) 100vw, 680px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/final-project.jpg) [<img class="alignnone size-full wp-image-1111" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT.png" alt="OAT" width="672" height="700" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT.png 672w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-288x300.png 288w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-100x104.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-150x156.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-200x208.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-300x313.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-450x469.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT-600x625.png 600w" sizes="(max-width: 672px) 100vw, 672px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/OAT.png)
+
+&nbsp;
+
+Part One: For the first part of my applied close reading, I analyzed the purpose of Nathaniel Rich&#8217;s bizarre introduction and its proclamations of Mitchell as a &#8220;great man&#8221;. I explored how the narrator is a data reader in a certain sense. He observed several key points about Mitchell and made his conclusions based upon these observations, just as we did while reading the novel. I also discussed how Rich uses this second perspective as a way to influence our initial perception of the novel. The underlying argument of my paper was that the introduction serves to impact the reader&#8217;s interpretation of Mitchell while also illustrating the subjective nature of data.
+
+Part Two: For the second part of my project, I created a pictograph chart (seen above), which uses icons to represent the &#8220;data&#8221; that both readers (ourselves and the narrator during the introduction) observe throughout the novel&#8217;s three parts. I also wrote up an explanation of the various icons and how they represent some of my main ideas. The explanations above sum up the rest of the project fairly well.

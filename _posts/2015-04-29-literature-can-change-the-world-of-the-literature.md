@@ -1,0 +1,14 @@
+---
+id: 1076
+title: Literature can Change the World (of the Literature)
+date: 2015-04-29T16:53:41+00:00
+author: Andrew
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=1076
+permalink: /2015/04/29/literature-can-change-the-world-of-the-literature/
+categories:
+  - Final Project Description
+---
+For the final paper, I decided to do the piece that I (wrongly) thought would be most common, Colson Whitehead’s _The Intuitionist_. After looking back through the work, I determined that it has the possibility for a completely different interpretation that we never discussed in the class but that seems to be in-line with all the evidence of the book itself. As such, I wrote about how, within the world of the book, literature is able to alter (physically) the world that it takes place in by being written and interpreted. From this topic and using the themes of the novel, I decided to demonstrate one possible result of this through [a fake patent application for Fulton’s “Black Box.”](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/04/Intuitionist-Patent-Application.pdf) It should be noted that this is a nod towards how Fulton’s first two volumes of _Theoretical Elevators_ were interpreted literally and so gave rise to Intuitionism. While at the end of the novel, Lila Mae was working and waiting to make sure that this did not happen with the third, the idea of this patent is that it could come into being if the third volume were taken literally (or empirically as I describe it in my paper) and so altered the physics of the world to enable Intuitionism to be used in the design of elevators rather than to make the social changes Fulton desired.
+
+I had hoped to format my patent application off of Otis’s patent for the safety elevator, but unfortunately the patent was destroyed in a fire and [so only a single page exists](http://en.wikipedia.org/wiki/File:ElevatorPatentOtis1861.jpg). Instead, the format is based off of the [United States Patent & Trademark Office’s Common Application](http://www.uspto.gov/patents-getting-started/international-protection/common-application-format) while using the first provisional patent application example on [this page](http://patentfile.org/provisional-patent-example-download/) as a template for style and content. Please note that the theoretical nature of the Black Box makes it inherently clash with the idea of a patent, making this attempt all the more fitting. However, it also meant that many areas of a standard patent are not really able to be written without an intimate knowledge of how that world would work. As such, many technical areas that would require a more complete understanding of the world with Intuitionism are simply labeled as _redacted_.

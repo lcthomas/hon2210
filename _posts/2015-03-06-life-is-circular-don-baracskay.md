@@ -1,0 +1,30 @@
+---
+id: 707
+title: Life is Circular (Don Baracskay)
+date: 2015-03-06T21:52:21+00:00
+author: donbaracskay
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=707
+permalink: /2015/03/06/life-is-circular-don-baracskay/
+categories:
+  - Observers
+---
+The three words I picked in an attempt to explain Hailey and Sam’s live in the context of the structure of the novel.  I looked for statistical correlation between the frequency of each word and its appearance in the novel.  The three words are: sixteen, mountain, and appropriately, life.
+
+The _use_ of the word sixteen has already been analysed by Marshall in his post, so I will briefly summarize and leave a link to said post, but do no more, instead focusing on the frequency of said word and what this means.  Sixteen represents a coming of age for the characters, and the US populous, in general.
+
+http://lindsaythomas.net/hon2210/2015/02/26/counting-distinguished-words/
+
+[<img class="alignnone  wp-image-708" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen-300x243.png" alt="Sixteen" width="513" height="415" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen-300x243.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen-100x81.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen-150x122.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen-200x162.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen-450x365.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen.png 477w" sizes="(max-width: 513px) 100vw, 513px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Sixteen.png)
+
+In the graph above, one can see that the word “sixteen” becomes twice as prominent and possibly important in the middle of the book, but is less important at the beginning and end.  My theory for this is that in spite of the characters being “allways sixteen,” they intrinsically emotionally age, being at the beginning of the book, “just” sixteen and not experiencing all the sixteen has to offer.  During the middle, they are “truly” sixteen, and experience clichéd sixteen things like law-breaking and young love, with this being a euphemism for sex.  In the end, they are “more” than sixteen, and are married and have the possibility for kids.  In both the beginning and the end, the idea of being sixteen is less important to them.
+
+[<img class="alignnone  wp-image-709" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain-300x241.png" alt="Mountain" width="510" height="410" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain-300x241.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain-100x80.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain-150x121.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain-200x161.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain-450x362.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain.png 484w" sizes="(max-width: 510px) 100vw, 510px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Mountain.png)
+
+The frequency for the word “mountain” and its stems appears in the graph above.  When I first read the novel I did not see the significance, and I still didn’t until I saw the graph.  The point is both stories end in the mountains and both begin with several references to mountains.  If one were to read the novel in the way suggested by Prof.  Thomas during last class, one would see the circular pattern that links together the stories, with references to the end of the previous being extremely prominent.  During the middle of each the mountain occurrence drop to next to nothing, because the story is now approaching the character’s deaths.
+
+[<img class="alignnone  wp-image-710" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life-300x242.png" alt="Life" width="501" height="404" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life-300x242.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life-100x81.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life-150x121.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life-200x161.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life-450x363.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life.png 481w" sizes="(max-width: 501px) 100vw, 501px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/03/Life.png)
+
+Finally “life” occurrences appear in the graph above.  There is a clear general increase in the use of the word life throughout the novel, peaking at the end.  This can be explained by two things: the first is that as they fall farther in love with one another their meaning of life increases.  The second is of course that the book builds to their deaths, with the amount of death imagery in the fifth section of both stories being somewhat overpowering.  The saying goes that one can only value life if it is threatened, people who are about to die tend to live life to the fullest, and Hailey and Sam do try to do this throughout the novel, seemingly for no reason until you take into consideration the end…
+
+I used the Voyant tool for my analysis, because it helped me observe the frequency of words, which is something I am considering doing for the oncoming paper.  I looked through 30+ and their stems to find coherent patterns, with many said patterns being like that of “he” and “she,” with the graphs simply mirror images of each other, because the characters are referring to one another at the same time during their sections.  I attempted to find patterns that couldn&#8217;t simply be explained by setting or basic syntax.

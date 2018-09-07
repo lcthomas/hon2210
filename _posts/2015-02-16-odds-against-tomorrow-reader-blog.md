@@ -1,0 +1,26 @@
+---
+id: 447
+title: Odds Against Tomorrow Reader Blog
+date: 2015-02-16T15:10:03+00:00
+author: adamcarroll
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=447
+permalink: /2015/02/16/odds-against-tomorrow-reader-blog/
+categories:
+  - Readers
+---
+Nathaniel Rich takes an interesting perspective in this novel with regards to big data and its applications and implications in our lives. The novel hits on several contemporary issues such as the financial situation, risk and compliance, and regulation, but big data is subtly used to tie these all together into a big wad of fear which haunts Mitchell Zukor. In terms of Zukor, big data plays a pivotal role in his life. It is how he got his job at Future World and how he then excels in his work there, but it is also the source of fear, anxiety, and disconnect that cripple him.
+
+&nbsp;
+
+Zukor was investigating the value of every employee at his law firm which &#8220;often required him to type the word &#8220;future&#8221; into his search engine-as in &#8220;future holdings&#8221; or &#8220;future cost of&#8221; or &#8220;future mass destruction&#8221;- and a peculiar advertisement began to pop up. &#8220;Find out what the future will cost you&#8221;, it said in austere small caps&#8221; (20). Rich starts the entirety of the novel&#8217;s plot by illustrating the power of big data. Targeted ads for Future World generated from Zukor&#8217;s web searches &#8220;flickered across the screne enough times that it began to feel like a taunt&#8221; (20). The Foreman piece we read in class discusses (in a very fearful tone) the implications of big data and its uses in targeted ads by companies predicting what we may be interested in. The data didn&#8217;t lie; Zukor was indeed interested in what the future might hold, and the specificity of the advertisement stirred his emotions. After continually seeing the advertisement he &#8220;closed his eyes and tried to clear his head. He could feel his old pursuers, the cockroaches, feasting on him&#8230;their food was fear, and they ate ravenously, lip-sackingly&#8221;(20). Foreman states that &#8220;emotions often guide decision making&#8221;, and this is exactly how the targeted add affected Zuckor. His fear of what the future might hold was revitalized by the company advertising that fear to him. The emotion stirred by the advertisement caused him to decide to contact future world, and his life would never be the same.
+
+Big data is also used widely in the speculation that it not only can catalyze emotion driven decisions we make personally, but can be used to predict the future of other  lives, companies, cities and even the world. Zukor uses personal aggregated data that &#8220;listed his colleague&#8217;s age, gender, salary, and profit earned for fitzsimmons&#8221;(19) to determine &#8220;the value of a person&#8217;s life to Fitzsimmons Sherman. It is also gathered about historical events and past weather patterns to predict war game scenarios, terrorist threats, pandemic likelihood, and imminent natural disasters. This data is used to predict situations that could cost companies money in liability claims and also serves the purpose of instilling fear into people. Rich uses this main concept of big data instilling fear tremendously throughout the novel. It is the fear that entangles Zukor and is the same fear in a sense that Foreman presents in his article.
+
+Big data is a scary thing. When it is used in these ways it does carry the potential to predict the chances of terrible things occurring to us, what we like, how we think, and even how much our life is monetarily worth. This fear drives Zukor; the more he learns, the more there is to fear, and the cycle continues.
+
+&nbsp;
+
+[<img class="alignnone size-medium wp-image-451" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB-300x190.jpg" alt="Bja-bhYIYAAkpzB" width="300" height="190" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB-300x190.jpg 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB-100x63.jpg 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB-150x95.jpg 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB-200x126.jpg 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB-450x284.jpg 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Bja-bhYIYAAkpzB.jpg)I felt as though this cartoon went nicely with the themes of the novel so far. Zukor has become a fortune teller in the sight of his clients because of the predictions he can make with the data he accumulates. Predictive analytics are becoming the means to which the world operates and makes decisions. And just like Madame Zaza, Future World is &#8220;not here to talk to you about fear of the future. I want to tell you about the future of fear&#8221;(112).
+
+&nbsp;

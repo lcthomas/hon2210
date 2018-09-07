@@ -1,0 +1,28 @@
+---
+id: 401
+title: Can machines really explore and predict humans?
+date: 2015-02-04T19:27:02+00:00
+author: caitlynlankowski
+layout: post
+guid: http://lindsaythomas.net/hon2210/?p=401
+permalink: /2015/02/04/can-machines-really-explore-and-predict-humans/
+categories:
+  - Responders
+---
+We cannot escape machines, particularly technology connecting us to one another; however, are these machines capable of exploring, explaining and predicting the human race. After class this past Tuesday, I began to question whether cookies are being used to simply explore my habits or predict what I will do next.
+
+I have begun to notice the advertisements that appear on my Facebook feed and how they change based on websites I visit. Today when visiting Facebook I found these advertisements:
+
+[<img class="alignnone size-medium wp-image-403" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-300x180.jpg" alt="Screen Shot 2015-02-04 at 6.24.46 PM" width="300" height="180" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-300x180.jpg 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-1024x613.jpg 1024w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-100x60.jpg 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-150x90.jpg 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-200x120.jpg 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-450x269.jpg 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-600x359.jpg 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM-900x539.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.24.46-PM.jpg)
+
+I was shocked to see this image of the world map on the right side of my Facebook feed as hours before I had researched this exact map on Amazon. How does Facebook gather cookies and create advertisements targeted towards me in hours while simultaneously doing the same thing for billions of other users? Another interesting note: I am currently planning and researching a backpacking trip through Europe. Not surprisingly, Facebook knows this and has covered my newsfeed with various advertisements from popular cities and attraction in Europe to particular schools and educational opportunities abroad.
+
+In her post, Sophia argued that humans cannot be quantified and predicted because the choice comes down to the individual. I agree with her statement, believing that humans are dynamic, developing, changing and growing beings. I believe that data can be used to explore and explain individuals, but it is limited in its predictions and will have flaws. One obvious flaw, in the advertisement above I was shown information about a school in Spain in spanish. I cannot read or speak spanish, yet Facebook still predicted this article would be useful for me.
+
+Throughout the reading this semester, I have noticed authors do not address technology is limiting in that not everyone in the world has it.
+
+[<img class="size-medium wp-image-404" src="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-300x203.png" alt="http://www.internetlivestats.com/internet-users/" width="300" height="203" srcset="http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-300x203.png 300w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-1024x693.png 1024w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-100x68.png 100w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-150x101.png 150w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-200x135.png 200w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-450x304.png 450w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-600x406.png 600w, http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM-900x609.png 900w" sizes="(max-width: 300px) 100vw, 300px" />](http://lindsaythomas.net/hon2210/wp-content/uploads/sites/7/2015/02/Screen-Shot-2015-02-04-at-6.57.36-PM.png)
+
+http://www.internetlivestats.com/internet-users/
+
+Yes, there are over 3 billion people with computer access, as numbers have increased since the end of 2014; however, this is the minority of the population. Therefore, the internet is limited. Technology can be used to explore and predict my next move, both successfully and unsuccessfully, but it cannot predict the entire human race. Life is more complex than a computer program and cookies that can be gathered from internet users. Individuals will continue to use technology to explain and predict an individuals and the human populations next move, however, I believe it will continue to be flawed and limited in its abilities.
